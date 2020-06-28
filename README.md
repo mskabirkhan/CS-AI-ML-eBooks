@@ -1,3 +1,3 @@
 # CS-AI-ML-eBooks
 
-This is a public repo I've created to help CS beginners, feel to download or put a star on this repo. 
+I've created to help CS beginners wehere you can get most of the essential books, feel to download or put a star on this repo. 
